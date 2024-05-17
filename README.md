@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Fernando Porfirio</h1>
 <h3 align="center">A Brazilian full-stack developer passionate about education and technology</h3>
 
-- 🔭 I’m currently working as **a full stack developer and technical lead at GSA Solutions, specializing in educational management systems.**
+- I’m currently working as **a full stack developer at +A Educação.**
 
-- 🌱 I’m currently learning **English, Vue.js, TypeScript,**
-
-- 👯 I’m looking to collaborate on **I'm looking to collaborate on projects where I can learn new technologies and contribute with my expertise.**
-
-- 🤝 I’m looking for help with **developing concepts and processes for the education sector and enhancing my skills in English and web development with Node.js and Vue.js.**
-
-- 💬 Ask me about **everything about how to develop systems for educational management with a focus on managers and teachers and cycling**
+- I’m looking for help with **developing concepts and processes for the education sector and enhancing my skills in English and web development with Node.js and Vue.js.**
 
 - 📫 How to reach me **fernando.lporfirio@gmail.com**
 
